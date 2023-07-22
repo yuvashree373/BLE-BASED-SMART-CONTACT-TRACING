@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>70896182427-4jct28tv1n4tqpquofb4lhgtpd5f3ili.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.70896182427-4jct28tv1n4tqpquofb4lhgtpd5f3ili</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAoZDIy9AEe4KeNoRTcVXkIJK4CJbPRDdI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>70896182427</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.torq.torqTrackerFeeder</string>
+	<key>PROJECT_ID</key>
+	<string>torq-tracker</string>
+	<key>STORAGE_BUCKET</key>
+	<string>torq-tracker.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:70896182427:ios:6f4334a426e667a7ff923e</string>
+</dict>
+</plist>

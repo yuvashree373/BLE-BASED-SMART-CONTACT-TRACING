@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "70896182427",
+    "project_id": "torq-tracker",
+    "storage_bucket": "torq-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70896182427:android:ddabadfdae5bf542ff923e",
+        "android_client_info": {
+          "package_name": "com.torq.torq_tracker_feeder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70896182427-q5hgbqkavogi8sevjb7rprkckmdto4op.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.torq.torq_tracker_feeder",
+            "certificate_hash": "bdfbbab6d8ec3ae292ef897f4e346fa83c9ddcf0"
+          }
+        },
+        {
+          "client_id": "70896182427-8ibli3fr5e0dh84gpron38j8j08qapu5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi3kgX8PVPqavSxjHvHP8GTaCw7ziZ-Uw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70896182427-8ibli3fr5e0dh84gpron38j8j08qapu5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "70896182427-4jct28tv1n4tqpquofb4lhgtpd5f3ili.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.torq.torqTrackerFeeder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
