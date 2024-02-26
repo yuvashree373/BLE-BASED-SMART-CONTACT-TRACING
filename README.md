@@ -5,9 +5,9 @@ This project aims to develop an Android mobile application that utilizes Bluetoo
 Additionally, the application implements contact tracing functionality by storing logs of users who have tested positive for COVID-19. These logs are used to inform individuals who were in close contact with affected users, prompting them to self-quarantine.
 
 FEATURES:
-Bluetooth Low Energy (BLE) signal-based proximity detection
-Machine learning classifiers for risk classification
-Android mobile application interface
-Contact tracing functionality
-Log storage and retrieval for contact tracing purposes
+1) Bluetooth Low Energy (BLE) signal-based proximity detection
+2) Machine learning classifiers for risk classification
+3) Android mobile application interface
+4) Contact tracing functionality
+5) Log storage and retrieval for contact tracing purposes
 
